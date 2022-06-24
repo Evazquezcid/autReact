@@ -1,0 +1,33 @@
+nav {
+    ul {
+
+        @media screen {
+        max-width: 100- 600px;
+        font-size: 60%;
+            }
+
+      height: 10vh;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      background-color: white;
+      border-bottom: 2px solid black;
+      border-top: 2px solid black;
+      
+      
+      
+
+        a { color:rgb(1, 1, 1);
+        text-decoration: none;
+        text-transform: uppercase;
+        text-decoration: underline;
+        font-size: 140%;
+        
+          
+
+       }
+  
+      
+      }
+    }
+  

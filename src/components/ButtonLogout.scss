@@ -1,0 +1,14 @@
+button {
+    @media screen {max-width: 100- 600px;
+       
+        font-size: 150%;
+    }
+           
+    border-style: none;
+    border-color: none;
+    margin-top: 5%;
+    border: 1px solid pink;
+    border-radius: 20px;
+    
+    background-color: white;
+}
